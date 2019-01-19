@@ -1,0 +1,29 @@
+1. 	
+	cd:change directory
+	ls:list
+	pwd:prints the name of current directory
+	mkdir:make directory
+
+2. 	
+	git clone:afritar geymslu í nýstofnaða möppu
+	git status:sýnir tréið
+	git diff:sýnir breytingar á milli commits og vinnandi tré
+
+3.
+	git log:Sýnir commit logs
+	git-checkout - skitpir branches eða endurgerir skjölin í vinnandi tré
+	git-branch - sýna lista af, búa til, eyða branches
+	
+4.
+	leið til að sjá eldri gerðir af skjali
+
+5.	
+	maður getur geymt hluti og séð þá aftur þrátt fyrir að vera búinn að breyta honum
+	og það er hægt að hafa síða þar frítt
+
+6.
+	eins oft og ég breyti ehv
+
+7.
+	"working directory" er directoryið sem þú ert í einmitt á sekúndunni
+	"Staging area" er skrá, sem almennt er að finna í Git möppunni þinni, sem geymir upplýsingar um hvað mun fara í næsta commitið þitt
